@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Jawad%20Yasin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20Digital%20Innovator&descSize=18&descAlignY=62&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e1b4b&height=180&section=header&text=Muhammad%20Jawad%20Yasin&fontSize=48&fontColor=e2e8f0&fontAlignY=45&desc=AI%20Engineer%20%20%7C%20%20Automation%20Architect%20%20%7C%20%20Digital%20Innovator&descSize=16&descAlignY=68&descColor=94a3b8&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+AI+Agents+%F0%9F%A4%96;Automating+the+Future%2C+One+Script+at+a+Time+%F0%9F%9A%80;Web+Scraping+%7C+Data+Engineering+%7C+LLMs+%F0%9F%A7%A0;Open+to+Freelance+%26+Collaborations+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=580&lines=Building+production-ready+AI+agents;Automating+workflows+with+Python+%26+n8n;Web+scraping+%26+data+engineering;Open+to+freelance+%26+collaboration)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,153 +14,130 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Jawad%20Yasin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadjawadyasin/)
-[![Gmail](https://img.shields.io/badge/Gmail-ranajawadai%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranajawadai@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ranajawadai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranajawadai)
-[![Profile Views](https://komarev.com/ghpvc/?username=ranajawadai&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/ranajawadai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=Muhammad%20Jawad%20Yasin)](https://www.linkedin.com/in/muhammadjawadyasin/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&label=ranajawadai%40gmail.com)](mailto:ranajawadai@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&label=ranajawadai)](https://github.com/ranajawadai)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=ranajawadai&style=flat-square&color=818cf8&label=profile+views)
 
 </div>
 
 ---
 
-## whoami
+### About
 
 ```python
 class MuhammadJawadYasin:
 
-    alias      = "RanaJawadAi"
-    location   = "Faisalabad, Pakistan  🇵🇰"
-    role       = "AI Engineer & Automation Architect"
+    location = "Faisalabad, Pakistan"
+    role     = "AI Engineer & Automation Architect"
 
-    currently_building = [
-        "🤖  Agentic AI systems that think & act autonomously",
-        "🔗  End-to-end workflow automations with n8n & Python",
-        "🌐  Data pipelines via advanced web scraping",
-        "📱  Digital marketing tech tools & SaaS products",
+    building = [
+        "Agentic AI systems that operate autonomously",
+        "End-to-end automation pipelines with n8n & Python",
+        "Scalable data extraction via web scraping",
+        "Digital marketing SaaS tools",
     ]
 
-    tech_philosophy = "Automate the boring. Build the extraordinary."
-    open_to        = ["Freelance", "Collaboration", "Open Source"]
+    philosophy = "Automate the boring. Build the extraordinary."
+    open_to    = ["Freelance", "Open Source", "Collaboration"]
 ```
 
 ---
 
-## Tech Arsenal
+### Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=264de4)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1b4b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1b4b?style=flat-square&logo=typescript&logoColor=3178C6)
+![HTML](https://img.shields.io/badge/HTML-1e1b4b?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1e1b4b?style=flat-square&logo=css3&logoColor=264de4)
+![Bash](https://img.shields.io/badge/Bash-1e1b4b?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
-**AI / LLM / Automation**
+**AI / Automation**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D4A574)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
-![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![OpenAI](https://img.shields.io/badge/OpenAI-1e1b4b?style=flat-square&logo=openai&logoColor=74AA9C)
+![Claude](https://img.shields.io/badge/Claude-1e1b4b?style=flat-square&logo=anthropic&logoColor=c9956c)
+![LangChain](https://img.shields.io/badge/LangChain-1e1b4b?style=flat-square&logo=chainlink&logoColor=375BD2)
+![n8n](https://img.shields.io/badge/n8n-1e1b4b?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Selenium](https://img.shields.io/badge/Selenium-1e1b4b?style=flat-square&logo=selenium&logoColor=43B02A)
+![Playwright](https://img.shields.io/badge/Playwright-1e1b4b?style=flat-square&logo=playwright&logoColor=2EAD33)
 
 **Web & Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1e1b4b?style=flat-square&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/React-1e1b4b?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-1e1b4b?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-1e1b4b?style=flat-square&logo=flask&logoColor=white)
 
 **Cloud & DevOps**
 
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-1e1b4b?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-1e1b4b?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Supabase](https://img.shields.io/badge/Supabase-1e1b4b?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Docker](https://img.shields.io/badge/Docker-1e1b4b?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e1b4b?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 </div>
 
 ---
 
-## Featured Projects
+### Projects
 
 <div align="center">
 
-| Project | Description | Stack | Status |
-|:--|:--|:--|:--|
-| [**AI LinkedIn Scraper**](https://github.com/ranajawadai/AI-Agentic-Linkedin-Scraper-by-M-Jawad-Yasin) | Agentic AI that extracts & enriches LinkedIn profiles autonomously | Python · AI Agents | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
-| [**God-Tier Data Scraper**](https://github.com/ranajawadai/God-Tier-Data-Scraper) | Bulletproof multi-site scraping engine with anti-bot bypass | Python · Playwright | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
-| [**Facebook AI Automation**](https://github.com/ranajawadai/JawadTechAI-facebook-automation) | AI auto-posts trending content to Facebook using Claude & GitHub APIs | Python · Claude AI | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
-| [**SEO Toolkit Pro**](https://github.com/ranajawadai/seo-toolkit-pro) | Full suite of free SEO analysis tools | HTML · CSS · JS | ![Live](https://img.shields.io/badge/Live-3b82f6?style=flat-square) |
-| [**Digital Service**](https://github.com/ranajawadai/Digital-service) | Digital marketing agency landing page | HTML · CSS | ![Live](https://img.shields.io/badge/Live-3b82f6?style=flat-square) |
-| [**Stream Flix**](https://github.com/ranajawadai/stream-flix-movie) | Movie streaming platform UI | Web Stack | ![Building](https://img.shields.io/badge/Building-f59e0b?style=flat-square) |
+| Repository | Description | Stack | Status |
+|:---|:---|:---|:---|
+| [AI-Agentic-Linkedin-Scraper](https://github.com/ranajawadai/AI-Agentic-Linkedin-Scraper-by-M-Jawad-Yasin) | Autonomous agent that extracts and enriches LinkedIn profiles | Python, AI Agents | ![](https://img.shields.io/badge/active-22c55e?style=flat-square) |
+| [God-Tier-Data-Scraper](https://github.com/ranajawadai/God-Tier-Data-Scraper) | Multi-site scraping engine with anti-bot bypass | Python, Playwright | ![](https://img.shields.io/badge/active-22c55e?style=flat-square) |
+| [JawadTechAI-facebook-automation](https://github.com/ranajawadai/JawadTechAI-facebook-automation) | AI-powered social content automation using Claude + GitHub | Python, Claude | ![](https://img.shields.io/badge/active-22c55e?style=flat-square) |
+| [seo-toolkit-pro](https://github.com/ranajawadai/seo-toolkit-pro) | Suite of free SEO analysis tools | HTML, CSS, JS | ![](https://img.shields.io/badge/live-3b82f6?style=flat-square) |
+| [Digital-service](https://github.com/ranajawadai/Digital-service) | Digital marketing agency website | HTML, CSS | ![](https://img.shields.io/badge/live-3b82f6?style=flat-square) |
+| [stream-flix-movie](https://github.com/ranajawadai/stream-flix-movie) | Movie streaming platform UI | Web Stack | ![](https://img.shields.io/badge/building-f59e0b?style=flat-square) |
 
 </div>
 
 ---
 
-## GitHub Analytics
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranajawadai&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajawadai&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=c9d1d9&langs_count=6" height="170"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=ranajawadai&theme=dark&hide_border=true&background=0d1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=94a3b8&dates=64748b&stroke=1e1b4b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 
 </div>
 
 <div align="center">
 
-<img width="88%" src="https://streak-stats.demolab.com?user=ranajawadai&theme=transparent&hide_border=true&ring=7C3AED&fire=f97316&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=6b7280&stroke=7C3AED"/>
-
-</div>
-
-<div align="center">
-
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=ranajawadai&theme=react-dark&hide_border=true&bg_color=00000000&color=7C3AED&line=7C3AED&point=f97316&area=true&area_color=7C3AED"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ranajawadai&theme=react-dark&hide_border=true&bg_color=0d1117&color=818CF8&line=818CF8&point=c7d2fe&area=true&area_color=1e1b4b" />
 
 </div>
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img width="88%" src="https://github-profile-trophy.vercel.app/?username=ranajawadai&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6"/>
-
-</div>
-
----
-
-## Currently Focused On
+### Currently
 
 ```
- Building    -->  Production-ready AI Agents for business automation
- Exploring   -->  RAG systems, fine-tuning LLMs, multi-agent frameworks
- Shipping    -->  SaaS tools that combine AI + digital marketing
- Learning    -->  System design & scalable backend architecture
- Open to     -->  Freelance gigs, open-source collabs, consulting
+building   ->  AI agents for end-to-end business automation
+exploring  ->  RAG pipelines, multi-agent frameworks, LLM fine-tuning
+shipping   ->  SaaS products at the intersection of AI and marketing
+open to    ->  freelance projects, open-source collaboration, consulting
 ```
 
 ---
 
 <div align="center">
 
-**Let's build something amazing together**
+**Let's connect and build something great**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadjawadyasin/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranajawadai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadjawadyasin/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranajawadai@gmail.com)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
-
-*"Automate the boring. Build the extraordinary."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0d1117&height=100&section=footer" />
 
 </div>
